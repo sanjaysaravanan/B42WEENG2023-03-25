@@ -39,4 +39,6 @@ Create an application like below with Mock APIs,
     4. Like, Dislike
 
     https://goofy-panini-9ed122.netlify.app/
+Practice the Movies Repo:
+https://github.com/sanjaysaravanan/movies-watchlist
 
