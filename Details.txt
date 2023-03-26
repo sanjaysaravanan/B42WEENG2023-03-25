@@ -7,7 +7,7 @@ How run our b42weeng-react in Your local system
 
 react, nextjs ( reactjs ), vue.js, ember.js, angular,
 
-Intro to Theme
+Intro to Theme Library
   react-bootstrap or mui 
   Decided to use mui
 
